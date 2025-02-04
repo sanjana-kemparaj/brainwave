@@ -1,4 +1,4 @@
-import Button from "./button";
+import Button from "./Button";
 import Section from "./Section.jsx";
 import { curve, heroBackground, robot } from "../assets/index.js";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
