@@ -2,7 +2,7 @@ import { smallSphere, stars } from "../assets";
 import Heading from "./Heading";
 import Section from "./Section";
 import PricingList from "./PricingList";
-import { LeftLine, RightLine } from "./design/pricing";
+import { LeftLine, RightLine } from "./design/Pricing";
 
 const Pricing = () => {
   return (
