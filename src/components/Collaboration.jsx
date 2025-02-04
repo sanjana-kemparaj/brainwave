@@ -1,7 +1,7 @@
 import { collabApps, collabContent } from "../Constants";
 import Section from "./Section";
 import { check } from "../assets";
-import Button from "./button";
+import Button from "./Button";
 import { collabText } from "../Constants";
 import { brainwaveSymbol } from "../assets";
 import { LeftCurve, RightCurve } from "./design/Collaboration";
